@@ -1,1 +1,3 @@
-﻿bower i
+﻿npm i
+bower i
+gulp
